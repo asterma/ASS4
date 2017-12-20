@@ -1,0 +1,2 @@
+set(rbo_create_MESSAGE_FILES "/home/sikun/Documents/Robotics/ASS4/workspace_assignment4/src/rbo_create/msg/SensorPacket.msg")
+set(rbo_create_SERVICE_FILES "/home/sikun/Documents/Robotics/ASS4/workspace_assignment4/src/rbo_create/srv/ResetOdom.srv;/home/sikun/Documents/Robotics/ASS4/workspace_assignment4/src/rbo_create/srv/Leds.srv;/home/sikun/Documents/Robotics/ASS4/workspace_assignment4/src/rbo_create/srv/Tank.srv")

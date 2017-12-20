@@ -1,0 +1,8 @@
+prefix=/home/sikun/Documents/Robotics/ASS4/workspace_assignment4/install
+
+Name: rbo_create
+Description: Description of rbo_create
+Version: 1.0.0
+Cflags: -I/home/sikun/Documents/Robotics/ASS4/workspace_assignment4/install/include
+Libs: -L/home/sikun/Documents/Robotics/ASS4/workspace_assignment4/install/lib 
+Requires: roscpp rospy geometry_msgs tf nav_msgs

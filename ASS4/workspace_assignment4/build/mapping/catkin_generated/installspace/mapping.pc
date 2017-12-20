@@ -1,0 +1,8 @@
+prefix=/home/sikun/Documents/Robotics/ASS4/workspace_assignment4/install
+
+Name: mapping
+Description: Description of mapping
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sikun/Documents/Robotics/ASS4/workspace_assignment4/install/lib 
+Requires: sensor_msgs nav_msgs
